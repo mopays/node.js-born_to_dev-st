@@ -1,0 +1,2 @@
+//DEBUG=express:* node app.js //use debug in node.js
+//DEBUG=express:app node app.js //use debug in app
